@@ -1,1 +1,1 @@
-# traffic_sign_detection
+# Обучение YOLOv8s на Google Colab: детектим дорожные знаки
